@@ -1,0 +1,22 @@
+{
+  "target": "go",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-go",
+  "release": "https://github.com/AnyOAuth/anyoauth-go/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "7e4015241620e53c9bd59b00218b7c882672b3884864fa0a3f9bc7e50d7a4ed6",
+    ".gitignore": "83e9133e57dda751344052d09ba612ed1216c2f4a427b72021061bea57d95074",
+    "LICENSE": "3c9fac2d1ae230e52ce82ed635341b438e0c4957bc637a1a792c2def5b82c61a",
+    "README.md": "471295acf9d679e0004825d55d2bfbe366667f158e8677dc9b513b8a4948f54f",
+    "anyoauth.go": "ebd6a3c01d0b0a93062cd12465d40f2f275665966fca62c3bc7f5e990d03492f",
+    "contract.json": "c63a01517cf66ae37cdc9e6adb822254a8c4368a78188e2bdc34b1a50138c1d0",
+    "go.mod": "51982f10236e8c070ac599aa8a211df19a6d4c1bf536785ade873350f5c26e71",
+    "provenance.json": "3e2857ae992bf7a55603a4def1c6657e9fdda268236bf4b0df0a1ad72fcac89f",
+    "test/conformance/check.mjs": "d0755353f2a3c28eb27a3845c793da4f89695b147aad8a32139d5548018d22aa",
+    "test/conformance/main.go": "f2d67505b3c4e64c3ab3f2ac9c43aa9e5868f787408cad29b5ef2da4de1e736f",
+    "verify.mjs": "4bc380315daf6be75e70fff4acc6f537a8441abe666e4059a28b9c7bbf62327a"
+  }
+}

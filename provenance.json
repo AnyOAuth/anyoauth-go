@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "generatorVersion": "1",
+  "target": "go",
+  "files": [
+    ".github/workflows/verify.yml",
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "anyoauth.go",
+    "contract.json",
+    "go.mod",
+    "test/conformance/check.mjs",
+    "test/conformance/main.go",
+    "verify.mjs"
+  ]
+}
